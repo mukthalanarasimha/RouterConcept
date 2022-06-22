@@ -1,0 +1,30 @@
+.authorImage {
+  height: 75px;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.image_react {
+  height: 200px;
+  margin: 20px;
+  border-radius: 20px;
+}
+.total_blogItem {
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.topic_name {
+  color: #8e8e8e;
+  font-family: 'roboto';
+}
+.authorDetails_container {
+  display: flex;
+}
+.author_name {
+  color: #8e8e8e;
+  font-family: 'roboto';
+}
+.Blog_item_link {
+  text-decoration: none;
+}
